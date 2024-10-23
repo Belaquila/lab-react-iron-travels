@@ -85,8 +85,20 @@ button:focus-visible {
   padding-left: 20px;
 }
 
-.label{
+.labelGD{
+  background-color: rgba(8, 124, 22, 0.87);
+  text-align: center;
+  color: aliceblue;
+  width: auto;
+  height: auto;
+  border-radius: 2px;
+}
+
+.labelPremium{
   background-color: rgba(18, 12, 192, 0.87);
   text-align: center;
   color: aliceblue;
+  width: auto;
+  height: auto;
+  border-radius: 2px;
 }
